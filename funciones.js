@@ -47,5 +47,6 @@ const inscriptionForm = () => {
         totalPrice = priceInput()
     }
 
-    alert('El precio final de su curso es de : $' + pricePlusIva(totalPrice))
+    alert('El precio final de su curso es de :$' + pricePlusIva(totalPrice))
 }
+
